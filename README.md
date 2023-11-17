@@ -26,6 +26,3 @@ Here are some ideas to get you started:
 <img src-"https://github-readme-stats.vercel.app/api?username-biswajitswain1997&show_icons-true" alt-"biswajitswain1997">
 </p>
 
-<p align-"center">
-<a href-"https://www.linkedin.com/in/biswajit-s-352563133/" target-"_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height-"5" width-"5"</a>
-</p>
