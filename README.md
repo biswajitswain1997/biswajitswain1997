@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hi align-"center">Hi there, I am Biswajit Swain 👋</hi>
+<hi align-"center">Hi there, I am Biswajit Swain 👋</h1>
 
 🔭 I’m currently working on <strong> Workato </strong> 
 💬 Ask me about <strong> Data Integration, iPaaS, API, REST, SOAP, XML, JSON, Workato, Boomi, Jitterbit, & Celigo </strong>
@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align-"center">
-<a href-"https://www.linkedin.com/in/biswajit-s-352563133/" target-"_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height-"30" width-"30"</a>
+<a href-"https://www.linkedin.com/in/biswajit-s-352563133/" target-"_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height-"10" width-"10"</a>
 </p>
