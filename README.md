@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hi align-"center">Hi there, I am Biswajit Swain 👋</h1>
+Hi there, I am Biswajit Swain 👋
 
 🔭 I’m currently working on <strong> Workato </strong> &nbsp; &nbsp;  &nbsp;  &nbsp; <br>
 💬 Ask me about <strong> Data Integration, iPaaS, API, REST, SOAP, XML, JSON, Workato, Boomi, Jitterbit, & Celigo </strong>  &nbsp;  &nbsp;  &nbsp;  &nbsp; <br>
